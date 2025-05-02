@@ -14,7 +14,7 @@ Um bot para Discord desenvolvido em **Elixir** usando a biblioteca [Nostrum](htt
 1. Crie um arquivo `.env` com a variável de ambiente:
 
 ```
-DISCORD_TOKEN=seu_token_aqui
+DISCORD_BOT_TOKEN=seu_token_aqui
 ```
 
 2. Execute o bot com:
